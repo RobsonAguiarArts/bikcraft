@@ -15,7 +15,7 @@
   align-self: end;
 }
 .depoimento-conteudo p {
-  font-family: "Merriweather" serif;
+  font-family: "Merriweather", serif;
   font-style: italic;
   font-weight: 900;
   margin-bottom: 32px;
